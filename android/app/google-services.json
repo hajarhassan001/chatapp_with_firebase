@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "176264592076",
+    "project_id": "sinacare-efbbe",
+    "storage_bucket": "sinacare-efbbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176264592076:android:4ee311d458a51ffa64a069",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176264592076-vofsoetm49lgq0tjq3agnnvnrv3pgdf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAKdeBaRNkZ7mWOUT-exOSA9J3CK-VPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176264592076-vofsoetm49lgq0tjq3agnnvnrv3pgdf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176264592076-p8iak0gc6s0pva0u9rbciu74k1ofbgjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sinaCare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176264592076:android:4cdd75657bbd078264a069",
+        "android_client_info": {
+          "package_name": "com.example.sina_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176264592076-f2prvpgcta20mo2pariqvq0tn1rr62fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sina_care",
+            "certificate_hash": "f651b2fa5a07591e36cb4eef9dc20d41f07e8675"
+          }
+        },
+        {
+          "client_id": "176264592076-vofsoetm49lgq0tjq3agnnvnrv3pgdf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAKdeBaRNkZ7mWOUT-exOSA9J3CK-VPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176264592076-vofsoetm49lgq0tjq3agnnvnrv3pgdf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176264592076-p8iak0gc6s0pva0u9rbciu74k1ofbgjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sinaCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
